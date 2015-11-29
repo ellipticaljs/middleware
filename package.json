@@ -1,12 +1,12 @@
 {
     "name": "elliptical-middleware",
     "description": "Elliptical Middleware",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "author": "S. Francis",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/tachyon1337/elliptical-middleware.git"
+        "url": "https://github.com/ellipticaljs/middleware.git"
     },
     "devDependencies": {
         "gulp": "^3.8.7",
